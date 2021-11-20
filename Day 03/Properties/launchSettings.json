@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "Day_03": {
+      "commandName": "Project"
+    },
+    "Day_03 - Part 2": {
+      "commandName": "Project",
+      "commandLineArgs": "--part2"
+    },
+    "Day_03 - Visualizer": {
+      "commandName": "Project",
+      "commandLineArgs": "--visualize"
+    }
+  }
+}
